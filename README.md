@@ -1,3 +1,3 @@
-# FirstTry
+# oldside
 
-https://efreetdouob.github.io/FirstTry/
+https://efreetdouob.github.io/oldside/
